@@ -426,6 +426,7 @@ section:nth-of-type(6){
     border-radius: 30px;
     text-decoration: none;
     cursor: pointer;
+    animation: button 1s infinite;
 
 }
 /* footer content */
